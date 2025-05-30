@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working as **DevOps Engineer**
 
-- 🌱 I’m currently learning **Security Tools For Ethical Hacking**
-
 - 👯 I’m looking to collaborate on **Tool for ethical hacking, bash, python, C and C++-Based Projects**
 
 - 💬 Ask me about **Anything**
