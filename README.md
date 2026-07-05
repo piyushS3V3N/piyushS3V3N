@@ -1,23 +1,132 @@
-<img width="100%" height="50%" src="https://wallpapers.com/images/high/rick-and-morty-silhouette-e95nobbtyijewsah.webp">
-<h1 align="center">Hi 👋, Piyush Parashar</h1>
+<img width="100%" src="https://wallpapers.com/images/high/rick-and-morty-silhouette-e95nobbtyijewsah.webp"/>
 
-<img align="right"  width="20%"  alt="Coding" hight="300"  src="http://3.bp.blogspot.com/-mezFQuiBLdQ/T0-z3j5WfUI/AAAAAAAADrg/TllczQzSOB0/s1600/Hacker+goldfinger+3D+Animated+Gif+at+Hacker+Informer+Artful+3D+GIF+Animator+GIF+Animator+DDD+Ulead+GIF+Animator+websites+blogs+photo+graphics+clipart+the+attention+computer+program+free+download+.gif" >
+<h1 align="center">Hi 👋, I'm Piyush Parashar</h1>
+<h3 align="center">DevOps Engineer | Platform Engineer | Cloud Enthusiast | Security Enthusiast</h3>
 
-- 🔭 I’m currently working as **DevOps Engineer**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyushS3V3N&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-- 👯 I’m looking to collaborate on **Tool for ethical hacking, bash, python, C and C++-Based Projects**
+---
 
-- 💬 Ask me about **Anything**
+## About Me
 
-- 📫 How to reach me **piyushparashar2k@gmail.com**
+- Currently working as a **DevOps Engineer**
+- Interested in **Cloud Native**, **Platform Engineering**, **Cyber Security**, **Automation**, and **Open Source**
+- Looking to collaborate on **DevOps**, **Linux**, **Security**, **Python**, **Go**, **Rust**, **Bash**, and **C/C++** based projects
+- Ask me about **Linux, Kubernetes, Docker, CI/CD, GitOps, IaC, Networking, Monitoring, Security, and Automation**
+- Reach me at **piyushparashar2k@gmail.com**
 
+---
 
+## Languages
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>  </a> <a href="https://jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>  </a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>  </a> <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>  </a> <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40"/>  </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>  </a></p>
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,go,rust,c,cpp,java,js,ts" />
+</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushS3V3N&show_icons=true&locale=en&layout=compact" alt="piyushS3V3N" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushS3V3N&show_icons=true&locale=en" alt="piyushS3V3N" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushS3V3N&" alt="piyushS3V3N" /></p>
+---
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,terraform,ansible,grafana,prometheus,linux" />
+</p>
+
+---
+
+## GitOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,terraform,ansible,docker,kubernetes,vagrant,vim,neovim,vscode,postman" />
+</p>
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
+<img height="48" src="https://cdn.simpleicons.org/microsoftsqlserver"/>
+<img height="48" src="https://cdn.simpleicons.org/elasticsearch"/>
+</p>
+
+---
+
+## Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,arch" />
+<img height="48" src="https://cdn.simpleicons.org/rockylinux"/>
+<img height="48" src="https://cdn.simpleicons.org/centos"/>
+</p>
+
+---
+
+## Monitoring & Observability
+
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+<img height="48" src="https://cdn.simpleicons.org/jaeger"/>
+<img height="48" src="https://cdn.simpleicons.org/elasticsearch"/>
+<img height="48" src="https://cdn.simpleicons.org/kibana"/>
+<img height="48" src="https://cdn.simpleicons.org/logstash"/>
+</p>
+
+---
+
+## Messaging & IoT
+
+<p>
+<img height="48" src="https://cdn.simpleicons.org/apachekafka"/>
+<img height="48" src="https://cdn.simpleicons.org/rabbitmq"/>
+<img height="48" src="https://cdn.simpleicons.org/mqtt"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img height="48" src="https://cdn.simpleicons.org/freertos"/>
+</p>
+
+---
+
+## Web & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nginx" />
+<img height="48" src="https://cdn.simpleicons.org/apache"/>
+</p>
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,neovim,postman,docker" />
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyushS3V3N&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushS3V3N&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushS3V3N&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=piyushS3V3N&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushS3V3N&theme=tokyo-night"/>
+</p>
