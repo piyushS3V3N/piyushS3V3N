@@ -1,132 +1,113 @@
-<img width="100%" src="https://wallpapers.com/images/high/rick-and-morty-silhouette-e95nobbtyijewsah.webp"/>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Piyush Parashar</h1>
-<h3 align="center">DevOps Engineer | Platform Engineer | Cloud Enthusiast | Security Enthusiast</h3>
+```text
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyushS3V3N&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
----
-
-## About Me
-
-- Currently working as a **DevOps Engineer**
-- Interested in **Cloud Native**, **Platform Engineering**, **Cyber Security**, **Automation**, and **Open Source**
-- Looking to collaborate on **DevOps**, **Linux**, **Security**, **Python**, **Go**, **Rust**, **Bash**, and **C/C++** based projects
-- Ask me about **Linux, Kubernetes, Docker, CI/CD, GitOps, IaC, Networking, Monitoring, Security, and Automation**
-- Reach me at **piyushparashar2k@gmail.com**
-
----
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,go,rust,c,cpp,java,js,ts" />
-</p>
-
----
-
-## DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,terraform,ansible,grafana,prometheus,linux" />
-</p>
-
----
-
-## GitOps & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,terraform,ansible,docker,kubernetes,vagrant,vim,neovim,vscode,postman" />
-</p>
-
----
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
-<img height="48" src="https://cdn.simpleicons.org/microsoftsqlserver"/>
-<img height="48" src="https://cdn.simpleicons.org/elasticsearch"/>
-</p>
-
----
-
-## Operating Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,arch" />
-<img height="48" src="https://cdn.simpleicons.org/rockylinux"/>
-<img height="48" src="https://cdn.simpleicons.org/centos"/>
-</p>
-
----
-
-## Monitoring & Observability
-
-<p>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-<img height="48" src="https://cdn.simpleicons.org/jaeger"/>
-<img height="48" src="https://cdn.simpleicons.org/elasticsearch"/>
-<img height="48" src="https://cdn.simpleicons.org/kibana"/>
-<img height="48" src="https://cdn.simpleicons.org/logstash"/>
-</p>
-
----
-
-## Messaging & IoT
-
-<p>
-<img height="48" src="https://cdn.simpleicons.org/apachekafka"/>
-<img height="48" src="https://cdn.simpleicons.org/rabbitmq"/>
-<img height="48" src="https://cdn.simpleicons.org/mqtt"/>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-<img height="48" src="https://cdn.simpleicons.org/freertos"/>
-</p>
-
----
-
-## Web & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,nginx" />
-<img height="48" src="https://cdn.simpleicons.org/apache"/>
-</p>
-
----
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,neovim,postman,docker" />
-</p>
-
----
-
-## GitHub Statistics
+root@linux:~$                                                                  
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│  $ engineer --about                                                          │
+│                                                                              │
+│      Name        : Piyush Parashar                                           │
+│      Role        : Software Engineer                                         │
+│      Focus       : Systems • Cloud • Linux • Security • Embedded             │
+│      Languages   : Go • Rust • Python • C/C++ • Java • Bash                  │
+│      Currently   : Building reliable software, platforms & infrastructure    │
+│                                                                              │
+│  $ echo $PHILOSOPHY                                                          │
+│                                                                              │
+│      "Engineering is the art of turning complexity into simplicity."         │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
+<h1 align="center">Hi, I'm Piyush</h1>
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyushS3V3N&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushS3V3N&layout=compact&theme=tokyonight&hide_border=true"/>
+  <strong>Software Engineer • Builder • Problem Solver</strong>
 </p>
 
 <p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushS3V3N&theme=tokyonight&hide_border=true"/>
+Building software across the stack—from systems programming and embedded development to cloud-native infrastructure, distributed systems, and developer tooling.
+</p>
+
+<p align="center">
+  <a href="mailto:piyushparashar2k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/piyushS3V3N">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## About
+
+I'm a software engineer who enjoys understanding how systems work.
+
+Over the years, I've worked across cloud infrastructure, Kubernetes, Linux, networking, embedded systems, distributed systems, security, and automation. I enjoy moving between different layers of the stack and building software that is reliable, maintainable, and practical.
+
+Whether it's writing systems software, automating infrastructure, deploying cloud-native applications, or experimenting with embedded hardware, I'm always interested in learning how things work beneath the surface and building better solutions because of that understanding.
+
+Outside of work, you'll usually find me exploring open-source projects, reading about operating systems, experimenting with new technologies, or breaking something simply to understand how it works.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,python,bash,powershell,c,cpp,java,js,ts"/>
+</p>
+
+### Infrastructure & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,linux,nginx,grafana,prometheus"/>
+</p>
+
+### Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,postman,arduino,raspberrypi"/>
+</p>
+
+### Data & Messaging
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite"/>
 </p>
 
 ---
 
-## GitHub Trophies
+## What Keeps Me Busy
+
+- Building cloud-native platforms and distributed systems
+- Designing reliable infrastructure and automation
+- Improving developer experience through tooling and CI/CD
+- Exploring Linux internals and systems programming
+- Contributing to open source whenever possible
+- Continuously learning and experimenting with emerging technologies
+
+---
+
+## GitHub Activity
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=piyushS3V3N&theme=tokyonight&no-frame=true&row=2&column=4"/>
+  <img src="https://streak-stats.demolab.com?user=piyushS3V3N&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushS3V3N&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## Contribution Graph
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushS3V3N&theme=tokyo-night"/>
-</p>
+> *Engineering is the art of turning complexity into simplicity.*
+
+</div>
